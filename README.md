@@ -76,9 +76,3 @@ To run this project, you need to have Python and the required libraries installe
   * **Confusion Matrix**: If you have a confusion matrix, you can include it here to show the model's performance in terms of true positives, true negatives, false positives, and false negatives.
 
 -----
-
-## Future Improvements 🤔
-
-  * Experiment with more advanced models like LSTMs or BERT.
-  * Deploy the model as a web application.
-  * Use a larger and more diverse dataset.
